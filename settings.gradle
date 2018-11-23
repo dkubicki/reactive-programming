@@ -1,0 +1,5 @@
+rootProject.name = 'reactive-programming'
+
+include 'fun-jvm'
+include 'reactive-jvm'
+
